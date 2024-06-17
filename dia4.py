@@ -1,4 +1,4 @@
-#Ordenar Lista: Escribe un programa que ordene una lista de números dada por el usuario en orden ascendente.
+#Ordenar Lista: Escribe un programa que ordene una lista de números dada por el usuario en orden ascendente
 
 def ordenar_lista(lista):
     lista_temporal = []

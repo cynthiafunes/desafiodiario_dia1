@@ -1,4 +1,4 @@
-# Contar Vocales: Escribe un programa que cuente el número de vocales en una cadena dada.
+# Contar Vocales: Escribe un programa que cuente el número de vocales en una cadena dada
 
 def contarvocales(cadena):
     vocales = 'aeiouAEIOU'

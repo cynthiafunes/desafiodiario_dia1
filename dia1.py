@@ -1,4 +1,5 @@
 # Inversión de una Cadena: Escribe un programa que invierta una cadena de caracteres dada por el usuario.
+
 def invertir_caracteres(cadena_de_caracteres):
     if len(cadena_de_caracteres) == 0:
         return ""
