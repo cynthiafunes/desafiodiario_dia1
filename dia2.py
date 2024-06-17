@@ -1,3 +1,5 @@
+#Tabla de Multiplicar: Escribe un programa que muestre la tabla de multiplicar de un número dado por el usuario.
+
 numero = int(input("Ingrese un número: "))
 print(f"Tabla de multiplicar de {numero}:")
 
