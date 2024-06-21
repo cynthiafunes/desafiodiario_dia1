@@ -19,7 +19,7 @@ def main():
         if contraseña:
             print(f"Contraseña: {contraseña}")
     except ValueError:
-        print("Error: La longitud debe ser un numero entero.")
+        print("Error: La longitud debe ser un numero entero")
 
 main()
 
